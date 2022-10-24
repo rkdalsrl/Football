@@ -1,0 +1,14 @@
+{
+    "nation": [
+        {"id": 1, "name": "대한민국", "ranking": "28", "img": "korea"},
+        {"id": 2,"name": "우루과이", "ranking": "13", "img": "uruguay"},
+        {"id": 3,"name": "포르투갈", "ranking": "9", "img": "portugal"},
+        {"id": 4,"name": "가나", "ranking": "28", "img": "ghana"}
+    ],
+
+    "match": [
+        {"city": "도하", "stadium": "Education City Stadium", "schedule": "11월 24일 오후 10시"},
+        {"city": "도하", "stadium": "Education City Stadium", "schedule": "11월 28일 오후 10시"},
+        {"city": "도하", "stadium": "Education City Stadium", "schedule": "12월 3일 오전 00시"}
+    ]
+}

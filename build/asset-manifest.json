@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb4c8320.css",
+    "main.js": "/static/js/main.3785e8d0.js",
+    "static/media/schedule_bg.png": "/static/media/schedule_bg.2be43c10d3d2d64f6747.png",
+    "static/media/players2.png": "/static/media/players2.896d1ecad667f6a65f7b.png",
+    "static/media/coachs.png": "/static/media/coachs.0d3652fe8dcc80fb132f.png",
+    "index.html": "/index.html",
+    "main.eb4c8320.css.map": "/static/css/main.eb4c8320.css.map",
+    "main.3785e8d0.js.map": "/static/js/main.3785e8d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4c8320.css",
+    "static/js/main.3785e8d0.js"
+  ]
+}
